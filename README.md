@@ -4,3 +4,5 @@ In this repo you can see three files:
 - main.py - main file
 
 - tested_notebooks.ipynd
+
+my score on Kaggle: 0.77511
